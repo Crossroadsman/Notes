@@ -36,7 +36,7 @@ div > ul {
 }
 ```
 
-Will select only `ul`'s that is the immediate child of a `div`, so in the following example:
+Will select only `ul`s that are the immediate child of a `div`, so in the following example:
 
 ```HTML
 <div>
