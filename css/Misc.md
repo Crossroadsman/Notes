@@ -28,3 +28,13 @@ Display
 - Examples:
     - `<p>`
     - `<div>`
+
+### Inline Element ###
+
+- does not start or end with a newline
+- only takes up as much width as necessary
+- Examples:
+    - `<img>`
+    - `<a>`
+    - `<span>`
+    
