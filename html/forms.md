@@ -44,3 +44,19 @@ Radio Buttons
    Otherwise the buttons are totally independent. In the example above, checking button labelled 'Uncool' will uncheck the button labelled 
    'Cool' (if it was checked).
 2. Checked buttons will create a query string `<name>=<value>`, unchecked are just `<name>=`
+
+Dropdown
+--------
+
+```html
+<p>What is your favourite pen brand?</p>
+  <select name="pen brand">
+    <option value="Nakaya">Nakaya</option>
+    <option value="Pilot">Pilot/Namiki</option>
+    <option value="Platinum">Pilot/Namiki</option>
+    <option value="Sailor">Sailor</option>
+    <option value="Other">Something not listed</option>
+  </select>
+```
+
+**Notes**
